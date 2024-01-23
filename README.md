@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hey there! I'm Ayush Mishra, a passionate computer science enthusiast currently pursuing in Computer Engineering at the National Institute of Advanced Manufacturing Technology. 🚀<br><br>💡 I thrive on turning lines of code into innovative solutions and am deeply immersed in the world of programming. My toolbox includes proficiency in C, C++, and Python, and I'm always eager to explore new technologies and languages.<br><br>🤖 Outside of coding, I enjoy tinkering with hardware, attending tech meetups, and staying updated on the latest industry trends. Let's connect, collaborate, and build something incredible together! 🌐✨
+<br>👋 Hey there! I'm Ayush Mishra, a programming enthusiast currently pursuing in Computer Engineering at the National Institute of Advanced Manufacturing Technology. 🚀<br><br>💡 I thrive on turning lines of code into innovative solutions and am deeply immersed in the world of programming. My toolbox includes proficiency in C, C++, and Python, and I'm always eager to explore new technologies and languages.<br><br>🤖 Outside of coding, I enjoy tinkering with hardware, attending tech meetups, and staying updated on the latest industry trends. Let's connect, collaborate, and build something incredible together! 🌐✨
 
 
 ## 🌐 Socials:
