@@ -63,13 +63,12 @@ Passionate about writing clean, efficient code and solving real-world problems u
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProgrammingGuy001&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProgrammingGuy001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingGuy001&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgrammingGuy001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
 ---
 
 ## 🎯 Current Focus
