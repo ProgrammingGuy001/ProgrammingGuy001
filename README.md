@@ -21,12 +21,6 @@ Passionate about writing clean, efficient code and solving real-world problems u
 <a href="https://linkedin.com/in/ayush-mishra-8b591a256" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://leetcode.com/ayushmishra2022" target="blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
-</a>
-<a href="https://hackerrank.com/ayush757358" target="blank">
-  <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
-</a>
 </p>
 
 ---
